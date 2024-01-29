@@ -1,0 +1,10 @@
+
+
+.tableContainer {
+    max-height: 40em; /* ajusta la altura máxima según tus necesidades */
+    overflow-y: auto;
+    width: 100%;
+
+  }
+  
+ 
